@@ -1,2 +1,22 @@
-# banking-data-warehouse-risk-analytics
-End-to-end Banking Data Warehouse with Fraud Detection and Risk Analytics using SQL Server, SSIS, and Power BI.
+# Banking Data Warehouse & Risk Analytics
+
+## Overview
+This project demonstrates a banking analytics system built using SQL Server, SSIS, and Power BI.
+
+## Features
+- Data Warehouse (Star Schema)
+- Fraud Detection Logic
+- Risk Categorization
+- Power BI Dashboard
+
+## Tech Stack
+- SQL Server
+- SSIS
+- Power BI
+
+## Key Insights
+- Identified high-risk customers
+- Detected unusual transaction patterns
+
+## Author
+Saurabh Kumar
